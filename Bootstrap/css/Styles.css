@@ -1,0 +1,50 @@
+.bg-dark
+{
+	background: linear-gradient(45deg,darkslategrey,black);
+}
+.dropdown-item:hover
+{
+	background: linear-gradient(45deg,darkslategrey,black);
+	color:white!important;
+}
+.bg-info
+{
+	background: linear-gradient(45deg,darkslategrey,rgb(22,190,119));
+}
+.bg-danger,.btn-danger
+{
+	background: linear-gradient(45deg,darkslategrey,red);
+}
+.bg-success,.btn-success
+{
+	background: linear-gradient(45deg,darkslategrey,limegreen);
+}
+.bg-secondary,.btn-secondary
+{
+	background: linear-gradient(45deg,darkslategrey,purple);
+}
+.bg-primary,.btn-primary
+{
+	background: linear-gradient(45deg,darkslategrey,rgb(34,220,202));
+}
+.hi
+{
+	height: 400px;
+	width: 100%;
+	border: 2px solid black;
+	box-shadow: 0 0 10px black;
+	border-radius: 20px;
+}
+.underline{
+	border-bottom: 2px solid black;
+}
+.indent{
+	text-indent: 100px;
+}
+.cir{
+	height: 300px;
+	width: 300px;
+	border: 2px solid black;
+	border-radius: 50%;
+	box-shadow: 0 0 15px black;
+}
